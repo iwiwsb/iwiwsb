@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+So now we have another bio section, but bundled with editing history? Cool.<!-- sarcasm -->
+
+Or is this some kind of <abbr title="Message Of The Day">MOTD</abbr>? Considering the exact spot where this text appears on my profile. <!-- Okay, I honestly don't know what is the point of it. But the fact anyone can see all previous versions of this document scares the crap out of me. -->
+
 <!--
 **iwiwsb/iwiwsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
