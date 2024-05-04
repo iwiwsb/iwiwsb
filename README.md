@@ -1,7 +1,6 @@
 # Hi there 👋
 
-🔭 I’m currently working on [pexp](https://github.com/iwiwsb/pexp), [olefile](https://github.com/iwiwsb/olefile), [wmf](https://github.com/iwiwsb/wmf) in no particular order. Probably will try to implement other [Windows Protocols](https://learn.microsoft.com/en-us/openspecs/windows_protocols) in Rust
-
+🔭 I’m currently working on [pexp](https://github.com/iwiwsb/pexp)
 <!--
 **iwiwsb/iwiwsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
